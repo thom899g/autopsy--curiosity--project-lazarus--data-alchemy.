@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-lazarus--data-alchemy.
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project Lazarus: Data Alchemy.' FAILED.MASTER REFLECTION: QUALITY_SCORE: 2XP_AWARDED: 50NEW_TOPIC: NoneSKILLS: [task_breakdown, technical_scoping, failure_diagnosis]METRICS:Coordination: 1Technical Complexity: 8Efficiency: 1Clarity: 2SUGGEST_UI: FORIGINAL ERROR LOGS:DeepSeek/AI model did not ret
