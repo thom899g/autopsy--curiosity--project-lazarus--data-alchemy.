@@ -1,0 +1,7 @@
+firebase-admin==6.5.0
+pandas==2.2.1
+numpy==1.26.4
+requests==2.31.0
+tenacity==8.2.3
+python-dotenv==1.0.0
+structlog==24.1.0
